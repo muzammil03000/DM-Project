@@ -1,7 +1,7 @@
 # DM-Project-RSA-CRYPTOGRAPHY-Encryption-and-Decryption
 
 ## Group Member's Names: 
-1. Muzammil Maqsood (64049) **LEADER
+1. Muzammil Maqsood (64049) **LEADER**
 2. Saad Ahmed Khan (64050) 
 3. Areeba Hussain (64057) 
 4. Nimra Humayun (64083) 
