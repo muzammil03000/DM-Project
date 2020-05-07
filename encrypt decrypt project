@@ -1,0 +1,22 @@
+from pip._vendor.distlib.compat import raw_input
+from pip._vendor.idna import unichr
+
+try:
+   input = raw_input
+except NameError:
+   pass
+try:
+   chr = unichr
+except NameError:
+   pass
+p1=int(input('Enter prime number1: '))
+p2=int(input('Enter prime number2: '))
+print("Choosen primes:\np1=" + str(p1) + ", p2=" + str(p2))
+print("\n")
+n=p1*p2
+print("n = p1 * p2 = " + str(n) )
+print("\n")
+phi=(p1-1)*(p2-1)
+print("Euler's function (totient) [phi(n)]: " + str(phi))
+print("\n")
+
