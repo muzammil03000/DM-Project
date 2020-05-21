@@ -1,30 +1,39 @@
-#DM 103348: RSA crypto#
-<!-- Replace XX with your course ID-->
+#DM 103348: RSA CRYPTOGRAPHY-ENCRYPTION-ENCRYPTION-AND-DECRYPTION#
+
 ###PROJECT MEMBERS###
 StdID | Name
 ------------ | -------------
-**12345** | **Amjad Majid** <!--this is the group leader in bold-->
-54321 | Sajid Rashid
-67890 | Babar Akbar
-98765 | Shahid Khalid
+**64049** | **MUZAMMIL MAQSOOD** 
+64083 | NIMRA HUMAYUN
+64068 | HYDER ALI
+64050 | SAAD AHMED KHAN
+64057 | AREEBA HUSSAIN
 <!-- Replace name and student ids with acutally group member names and ids-->
 ## Project Description ##
-Replace this text with the description of your project. Tell what the project was about. What you aimed to deliver in the project.
+The aim of our project it is used for security purpose.In RSA CRYPTOGRAPHY both public and private key are used for encrypt a message. our project logic is that the two large prime number are mulitiply and Multiplying these two numbers is easy to  determining the original prime number two large number n and n1 then take their modulus.
 
 ##Discrete Math Concepts Used ##
-Replace this text with the desription of where in the project you used which discrete math concepts and how it is playing its role to make your project work. You may use more 3rd level heading to categorize this portion of the report as shown below.
+gcd 
+prime number
+phi function
+key 
+modulus 
+###Example 1: PHYTON LANGUAGE USED###
 
-###Example 1: Replace with Your Own###
-And you may also add code samples from your project to support your description. 
-```C++
-#include <stdio.h>
-int main(int argc, char* argv[]){
-    printf("You may add some code of your liking if you want to support your description");
-}
+```Phyton code:
+s = input("Enter a message to encrypt: ")
+print("Plain message: " + s  )
+print("\n")
+enc = encrypt_string(s)
+print("Encrypted message: "+ enc )
 ```
 
 ##Problems Faced##
-Replace this text with the explaination of the problems you faced in the project, and how you resolved them. Again you can give each of your problems a heading of level 3.
+
+-Online classes(quarantine covid-19)
+-net issue 
+-Group coordination was not too good 
+-logic issue (every one has diiferent opinion)
 
 ###Problem 1: I don't know how to Code###
 Transfer to yourself to social sciences department. Blah blah blah. This is an example. Replace it with your own problem description and how you resolved it. 
