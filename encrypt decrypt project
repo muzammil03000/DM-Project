@@ -61,3 +61,11 @@ def encrypt_string(s):
 return ''.join([chr(encrypt_block(ord(x))) for x in list(s)])
 def decrypt_string(s):
 return ''.join([chr(decrypt_block(ord(x))) for x in list(s)])
+s = input("Enter a message to encrypt: ")
+print("Plain message: " + s  )
+print("\n")
+enc = encrypt_string(s)
+print("Encrypted message: "+ enc )
+print("\n")
+dec = decrypt_string(enc)
+print("Decrypted message: " + dec )
