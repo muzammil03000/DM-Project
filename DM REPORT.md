@@ -4,10 +4,11 @@
 StdID | Name
 ------------ | -------------
 **64049** | **MUZAMMIL MAQSOOD** 
+64050 | SAAD AHMED KHAN
 64083 | NIMRA HUMAYUN
 64068 | HYDER ALI
-64050 | SAAD AHMED KHAN
 64057 | AREEBA HUSSAIN
+
 <!-- Replace name and student ids with acutally group member names and ids-->
 ## Project Description 
 The aim of our project it is used for security purpose.In RSA CRYPTOGRAPHY both public and private key are used for encrypt a message. our project logic is that the two large prime number are mulitiply and Multiplying these two numbers is easy to  determining the original prime number two large number n and n1 then take their modulus.
