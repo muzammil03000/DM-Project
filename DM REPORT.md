@@ -12,12 +12,12 @@ StdID | Name
 ## Project Description 
 The aim of our project it is used for security purpose.In RSA CRYPTOGRAPHY both public and private key are used for encrypt a message. our project logic is that the two large prime number are mulitiply and Multiplying these two numbers is easy to  determining the original prime number two large number n and n1 then take their modulus.
 
-## Discrete Math Concepts Used 
-gcd 
-prime number
-phi function
-key 
-modulus 
+## Discrete Math Concepts Used:
+- Gcd 
+- Prime number
+- Phi function
+- Key 
+- Modulus 
 ### Example 1: PHYTON LANGUAGE USED
 
 ```Phyton code:
@@ -28,12 +28,12 @@ enc = encrypt_string(s)
 print("Encrypted message: "+ enc )
 ```
 
-## Problems Faced
+## Problems Faced:
 
-Online classes(quarantine covid-19)
-net issue 
-Group coordination was not too good 
-logic issue (every one has diiferent opinion)
+- Online classes(quarantine covid-19)
+- Net issue 
+- Group coordination was not too good 
+- Logic issue (every one has diiferent opinion)
 
 ### Problem 1: Difficulty of understanding code: ###
 There is a reason we tell people to start with a "Hello, world." Because at that point in their journey, accomplishing that means that have conquered a certain number of fundamentals. You understand how to compile, how to run, how to call a function and pass it parameters. Writing a clone of an existing program is another big step, almost as important as the hello world step, only at a different stage of your journey. When you are done with it, you have overcome certain challenges. You had to figure out where to start, how to plan it, how to organize it, how to deal with the bugs, give it a personal touch, and package it up at the end so it is a usable thing. Even when cloning a simple program, you are learning all of the process.
@@ -48,13 +48,8 @@ Our parents obviously want you to succeed, but unlike a lot of parents think, st
 
 So, sit down and come up with the best way of making your study efficient to achieve your goals. If our parents keep pushing you to study for the degree all day, We should have a conversation with them about it and tell them that you have your study sorted out and you don’t need to study all day to succeed. Obviously, if you do this, you’re going to actually have to show them what you’re saying is true and works, otherwise there’s no point on trying to change things.
 
-## References ##
-- Link Reference: (https://www.comparitech.com/blog/information-security/rsa-encryption/)
-- Book Refrences (Rosen Discrete Mathematics and Its Application &th edition)
-- Class Lecture
+## References: ##
+- Link Reference: (https://www.comparitech.com/blog/information-security/rsa-encryption/).
+- Book Refrences (Rosen Discrete Mathematics and Its Application &th edition).
+- Class Lecture.
 
-- Mention all references. Plagiarism will not be tolerated.
-- You see markdown is not that difficult.
-- You are CS students not some tom harry from BBA SHE-B-A :-).
-- You can and must learn to use markdown and Github. 
-- All future project development will be down in something similar to GITHUB
