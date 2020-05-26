@@ -40,7 +40,7 @@ A key is used to identify the number of categories present in a graph. It is als
 In mathematics, the absolute value or modulus of a real number x, denoted |x|, is the non-negative value of x without regard to its sign. Namely, |x| = x if x is positive, and |x| = −x if x is negative, and |0| = 0. For example, the absolute value of 3 is 3, and the absolute value of −3 is also 3.
 
 #
-## Language Used:
+## Example 1: By using Python Language:
 The language we are using for our project is Python. This is a language we just started learning and we are quite familiar with it.
 
 ```Phyton code:
