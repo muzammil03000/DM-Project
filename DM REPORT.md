@@ -7,7 +7,7 @@ StdID | Name
 **64049** | **MUZAMMIL MAQSOOD** 
 64050 | SAAD AHMED KHAN
 64083 | NIMRA HUMAYUN
-64068 | HYDER ALI
+64068 | Hyder Ali
 64057 | Areeba Hussain
 
 <!-- Replace name and student ids with acutally group member names and ids-->
