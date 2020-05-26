@@ -4,9 +4,9 @@
 ### PROJECT MEMBERS 
 StdID | Name
 ------------ | -------------
-**64049** | **MUZAMMIL MAQSOOD** 
-64050 | SAAD AHMED KHAN
-64083 | NIMRA HUMAYUN
+**64049** | **Muzammil Maqsood** 
+64050 | Saad Ahmed Khan
+64083 | Nimra Humayun
 64068 | Hyder Ali
 64057 | Areeba Hussain
 
