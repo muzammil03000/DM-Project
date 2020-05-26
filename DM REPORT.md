@@ -23,7 +23,14 @@ The aim of our project it is used for security purpose.In RSA CRYPTOGRAPHY both 
 - Phi function
 - Key 
 - Modulus 
-### Example 1: PHYTON LANGUAGE USED
+
+### GCD
+
+
+
+#
+## Language Used:
+The language we are using for our project is Python. This is a language we just started learning and we are quite familiar with it.
 
 ```Phyton code:
 s = input("Enter a message to encrypt: ")
