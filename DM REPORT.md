@@ -8,7 +8,7 @@ StdID | Name
 64050 | SAAD AHMED KHAN
 64083 | NIMRA HUMAYUN
 64068 | HYDER ALI
-64057 | AREEBA HUSSAIN
+64057 | Areeba Hussain
 
 <!-- Replace name and student ids with acutally group member names and ids-->
 ## Project Description 
