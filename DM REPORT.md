@@ -32,28 +32,37 @@ print("\n")
 enc = encrypt_string(s)
 print("Encrypted message: "+ enc )
 ```
+
 # 
 ## Problems Faced:
 
-- Online classes(quarantine covid-19)
-- Net issue 
-- Group coordination was not too good 
-- Logic issue (every one has diiferent opinion)
+- Lack of sources due to lockdown and quarantine.
+- Loadshedding and Wifi problems leading towards the next problem.
+- Cordination with members.
+- Difficulty of understanding code.
+- Logic issue.
 
 # 
-## Problem 1: Difficulty of understanding code: ###
+## Problem 1: Difficulty of understanding code: ##
 There is a reason we tell people to start with a "Hello, world." Because at that point in their journey, accomplishing that means that have conquered a certain number of fundamentals. You understand how to compile, how to run, how to call a function and pass it parameters. Writing a clone of an existing program is another big step, almost as important as the hello world step, only at a different stage of your journey. When you are done with it, you have overcome certain challenges. You had to figure out where to start, how to plan it, how to organize it, how to deal with the bugs, give it a personal touch, and package it up at the end so it is a usable thing. Even when cloning a simple program, you are learning all of the process.
 
-I see with novice developers. They've put in their time to learn the basics of a programming language or two and they feel py comfortable doing programming exercises, but they don't know how to apply what they've learned. It usually comes in a phrase similar to "I know how to program, but I don't know what to program." The responses are typically "do programming challenges", "contribute to an open source project", or "make a game."
+For us it was difficult because most of us don't exactly know what cryptography is let alone know how it works and working on it was beyond our imagination. But there is always a start to something but it would've been better if it was explained to us at the beginning so it would've been easy for us to work on it. With quarantine it was extremely hard sometime problems are solved by contacting other people and coming face to face with one another. But like this it was hard to even contact each other at times.
 
-Doing programming challenges is good mental practice, but they do little to help someone learn how to create a new program. Contributing to an open source project is a step up. You might learn about how a real project is structured and improve your skill with the programming language, but won't learn much about the full lifecycle of a project. Some projects are very complex too which can be intimidating for a novice.
+#
+## Problem 2: Lack of sources due to lockdown and quarantine: ##
+When the univerisity was open it was easier for everyone to reach out and ask for a help understanding something, it could've been teacher or any senior who has done this course but due to lockdown it was hard to find any source, or anyone to help us out understand it. Of course the internet full of it but that does not mean it satisfy you with solution you are looking for. Happens to the best of us. Which made us pretty much crazy over what cryptography actually is.
 
-# 
-## Problem 2: Our Parents forced me for a degree ###
+#
+## Problem 3: Loadshedding and Wifi problems leading towards the next problem: ##
+Since we all live in Pakistan it's not even raise hand on this problem because we all face it. We all have faced load shedding at the worse time and at times that it even forgets to come back and that's pretty much the same with the wifi. Of course we all have data at times(not all the time, not to forget it's qauarentine and recharging balance is pretty hard now with shops closed and stuff) but it's useless when it comes to programming since it's pretty useless because you can't program with your phone.
 
-Our parents obviously want you to succeed, but unlike a lot of parents think, studying “all day” is not what’s going to make that happen. A lot of people don’t need to study for too long to have great grades, while others study a lot and don’t get past an average grade, so the amount of studying isn’t what’s going to make you success, the quality of your studying is and each person has it different. Our parents have to understand that what they think is the right way, may actually not be the right way at all. Forcing you to study for the degree will only make it worse, you’ll become repulsed by studying and you won’t enjoy it because, well, you’re forced to do it, and nobody really likes to be forced to do something.
+#
+## Problem 4: Cordination with members: ##
+As I said due to lack of contact in person it was hard for all of us to reach out each other at times and loadshedding and net failure never helped either. So, coming to terms to create anything was extremely hard for all of us. Not saying that happens to everyone and others might have done work with it too but this was something that all of us faced and somehow, we also completed our project too.
 
-So, sit down and come up with the best way of making your study efficient to achieve your goals. If our parents keep pushing you to study for the degree all day, We should have a conversation with them about it and tell them that you have your study sorted out and you don’t need to study all day to succeed. Obviously, if you do this, you’re going to actually have to show them what you’re saying is true and works, otherwise there’s no point on trying to change things.
+#
+## Problem 5: Logic issue: ##
+Everyone have different way of approach and solving problems and it's good but when there is lack of co-ordination it gets hard even for developers to make something and we the students who are just learning what cryptography even is so, Logic one of the issue we all faced.
 
 # 
 ## References: ##
