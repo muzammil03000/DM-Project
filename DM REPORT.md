@@ -24,9 +24,20 @@ The aim of our project it is used for security purpose.In RSA CRYPTOGRAPHY both 
 - Key 
 - Modulus 
 
-### GCD
+### GCD:
+In discrete mathematics, the greatest common divisor (gcd) of two or more integers, which are not all zero, is the largest positive integer that divides each of the integers. For example, the gcd of 8 and 12 is 4.
 
+### Prime number:
+Prime numbers are the building blocks of the integers. A prime number is a positive integer greater than one that has only two divisors: 1, and the number itself. For example, 17 is prime because the only positive integers that divide evenly into it are 1 and 17.
 
+### Phi function:
+Definition 3.8. 1 ϕ(n) is the number of non-negative integers less than n that are relatively prime to n. In other words, if n>1 then ϕ(n) is the number of elements in Un, and ϕ(1)=1.
+
+### Key:
+A key is used to identify the number of categories present in a graph. It is also called a legend. A key on a pictograph tells us how many each picture stands for. Look at the following pictograph.
+
+### Modulus:
+In mathematics, the absolute value or modulus of a real number x, denoted |x|, is the non-negative value of x without regard to its sign. Namely, |x| = x if x is positive, and |x| = −x if x is negative, and |0| = 0. For example, the absolute value of 3 is 3, and the absolute value of −3 is also 3.
 
 #
 ## Language Used:
