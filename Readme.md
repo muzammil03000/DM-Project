@@ -7,11 +7,11 @@
 
 # 
 ## Group Member's Names: 
-1. Muzammil Maqsood (64049) **LEADER**
-2. Saad Ahmed Khan (64050) 
-3. Areeba Hussain (64057) 
-4. Nimra Humayun (64083) 
-5. Hyder Ali (64068) 
+1. MUZAMMIL MAQSOOD (64049) **LEADER**
+2. SAAD AHMED KHAN(64050) 
+3. AREEBA HUSSAIN (64057) 
+4. NIMRA HUMAYUN (64083) 
+5. HYDER ALI (64068) 
 
 
 
