@@ -49,18 +49,23 @@ print("public key is (e=" + str(e) + ", n=" + str(n))
 print("\n")
 print("private key is (d=" + str(d) + ", n=" + str(n))
 print("\n")
+
 def encrypt_block(m):
-c = modinv(me, n)
-if c == None: print('No multiplicative inverse ' + str(m) + '.')
-return c
+  c = modinv(me, n)
+  if c == None: print('No multiplicative inverse ' + str(m) + '.')
+  return c
+  
 def decrypt_block(c):
-m = modinv(cd, n)
-if m == None: print('No multiplicative inverse ' + str(c) + '.')
-return m
+  m = modinv(cd, n)
+  if m == None: print('No multiplicative inverse ' + str(c) + '.')
+  return m
+
 def encrypt_string(s):
-return ''.join([chr(encrypt_block(ord(x))) for x in list(s)])
+  return ''.join([chr(encrypt_block(ord(x))) for x in list(s)])
+
 def decrypt_string(s):
-return ''.join([chr(decrypt_block(ord(x))) for x in list(s)])
+  return ''.join([chr(decrypt_block(ord(x))) for x in list(s)])
+
 s = input("Enter a message to encrypt: ")
 print("Plain message: " + s  )
 print("\n")
